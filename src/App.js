@@ -1,6 +1,6 @@
 import "./App.css";
-import React, { useState } from "react";
 import Dictionary from "./Dictionary.js";
+import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
   return (
