@@ -1,4 +1,5 @@
 import "./App.css";
+import React, { useState } from "react";
 import Dictionary from "./Dictionary.js";
 
 function App() {
