@@ -6,3 +6,11 @@ input {
   border-bottom: solid;
   border-bottom-style: dashed;
 }
+
+.App-header {
+  text-align: center;
+  font-size: 40px;
+  margin: 0px 0px 5px 80px;
+
+  font-weight: bolder;
+}
