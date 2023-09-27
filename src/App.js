@@ -10,7 +10,10 @@ function App() {
         <header className="App-header"></header>
         <Dictionary defaultKeyWord="sunset" />
         <footer>
-          <small>Coded by Irene Bellani</small>
+          <small>
+            This project was coded by Irene Bellani and is available on{" "}
+            <a href="https://github.com/Ireb91/dictionary-app">Github</a>
+          </small>
         </footer>
       </div>
     </div>
