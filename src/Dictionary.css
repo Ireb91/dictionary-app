@@ -1,16 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Neuton:ital,wght@0,300;0,400;0,700;1,400&display=swap");
+
 input {
-  padding: 6px 50px 6px 0px;
-  margin: 10px 0 10px;
-  background: none;
   border: none;
-  border-bottom: solid;
-  border-bottom-style: dashed;
+  border-bottom: 1px solid;
+  padding: 4px 30px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-family: "Neuton", serif;
+  font-size: 24px;
+  outline: none;
+  margin-bottom: 40px;
+  background-image: url("search_icon.png");
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-position: 10px;
 }
 
 .App-header {
   text-align: center;
-  font-size: 40px;
-  margin: 0px 0px 5px 80px;
-
-  font-weight: bolder;
+  font-size: 60px;
+  font-family: "Neuton", serif;
+  margin-bottom: 20px;
 }

@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Neuton:ital,wght@0,300;0,400;0,700;1,400&display=swap");
+
+body {
+  font-family: "Neuton", serif;
+}
+
+.Word {
+  font-size: 40px;
+}
+
+.Phonetic {
+  font-style: oblique;
+}
+
+.Word-section {
+  text-align: center;
+  background-color: #f9f7fe;
+  display: block;
+  margin: 0 auto 25px;
+  padding: 20px 20px;
+}
