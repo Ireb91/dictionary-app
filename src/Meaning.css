@@ -16,3 +16,13 @@
 .Synonym {
   font-size: 18px;
 }
+
+.Result {
+  border: 2px solid #ebebe3;
+  padding: 20px 30px;
+  margin-bottom: 15px;
+}
+
+.Result:hover {
+  background-color: #ebebe3;
+}
