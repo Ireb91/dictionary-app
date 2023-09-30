@@ -1,0 +1,18 @@
+.Part-of-speech {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.Meaning {
+  font-size: 20px;
+}
+
+.Example {
+  font-size: 20px;
+  margin-left: 20px;
+  font-style: italic;
+}
+
+.Synonym {
+  font-size: 18px;
+}
