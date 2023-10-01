@@ -18,11 +18,11 @@
 }
 
 .Result {
-  border: 2px solid #ebebe3;
+  border: 2px solid #e5e4db;
   padding: 20px 30px;
   margin-bottom: 15px;
 }
 
 .Result:hover {
-  background-color: #ebebe3;
+  background-color: #e5e4db;
 }
