@@ -7,3 +7,17 @@ img {
 .photos {
   padding: 40px;
 }
+
+img:hover {
+  opacity: 70%;
+}
+
+@media (max-width: 820px) {
+  .photos {
+    padding: 20px;
+  }
+
+  img {
+    margin: 5px;
+  }
+}

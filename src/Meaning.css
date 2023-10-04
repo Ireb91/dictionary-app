@@ -19,8 +19,19 @@
 
 .Result {
   padding: 20px 30px;
-  margin-bottom: 15px;
-  border: 3px solid palevioletred;
   max-width: 800px;
   margin-left: 30px;
+  background-color: #d7e5f0;
+  margin: 0 auto 30px;
+  box-shadow: 3px 3px #b7cee0;
+}
+
+.Result:hover {
+  transform: translate(5%);
+}
+
+@media (max-width: 820px) {
+  .Result {
+    margin: 13px 20px;
+  }
 }

@@ -11,3 +11,8 @@ footer {
 .Container {
   width: 100%;
 }
+
+footer {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
